@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a computer engineering student at the University of Toronto. My interests are in both hardware and software, which is a big focus in my choice of classes. I'm a part of UTAT Space Systems Firmware team, working on Finch. 
+I'm a computer engineering student at the University of Toronto. My interests are in both hardware and software, which is a big focus in my choice of classes. 
 
 ### Completed Projects
 
